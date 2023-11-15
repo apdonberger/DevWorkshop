@@ -1,0 +1,10 @@
+1. Check out the code reviewer guidelines for software engineers at Yelp and Microsoft (Visual Studio Mobile team). What concepts are similar between the companies (List at least two)? What are some key differences (List at least two)? In general, what items should be present in a code review checklist for a development team?
+Each company doesnt want rude feedback
+Respond quickly
+2. Find an example of a "good" code review. Provide a link to the review and explain why you found the review beneficial.
+"This code works correctly, but have you considered using a try-catch block to handle potential errors? It could improve the reliability and robustness of the program."
+https://www.quora.com/What-is-an-example-of-a-good-code-review-comment
+The review is benefical because it explains what the code does and how it can be improved.
+The lack of consistency in code reviews manifests itself in many forms - it may concern checking coding standards, correct declaration of types or verification of variable and method names.
+the bad code review is not helpful because it doesnt explain what the code does and how it can be improved.
+https://medium.com/transparent-data-eng/good-and-bad-code-review-examples-219c0024e6b0#:~:text=Bad%20Code%20Review%20%2D%20Examples
